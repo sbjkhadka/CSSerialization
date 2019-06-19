@@ -1,0 +1,7 @@
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\bin\Debug\LizardDemo.exe.config
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\bin\Debug\LizardDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\bin\Debug\LizardDemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\obj\Debug\LizardDemo.csprojAssemblyReference.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\obj\Debug\LizardDemo.csproj.CoreCompileInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\obj\Debug\LizardDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\LizardDemo\LizardDemo\obj\Debug\LizardDemo.pdb
